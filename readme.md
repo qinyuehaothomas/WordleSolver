@@ -1,6 +1,6 @@
 # Wordle Solver
 CLI programme to solve five word wordle,
-
+word list from [This Repo](https://github.com/dwyl/english-words)
 # How it works
 Count No. of letters and give score to each letter.\
 Each word, sum the scores of each letters.\
